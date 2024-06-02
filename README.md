@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GunalT
 - 👀 I’m learning web development and  Data Science
-- 🌱 I’m interested in creating and collaborating in unique projects
+- 🌱 I’m interested in creating and collaborating unique projects
 - 📫 you can reach me by mailing me  id: gunaltoff@gmail.com
 - 😄 Pronouns: he/him
 
